@@ -1,0 +1,22 @@
+{
+  "name": "com.adrianyip.ddd",
+  "version": "0.1.0",
+  "displayName": "AYip DDD",
+  "description": "This is a simplest DDD package for software that implements domain driven design.",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/adrianyip-1222/ayip-package-ddd",
+  "changelogUrl": "https://github.com/adrianyip-1222/ayip-package-ddd/blob/0.1.0/CHANGELOG.md",
+  "licensesUrl": "https://github.com/adrianyip-1222/ayip-package-ddd/blob/0.1.0/LICENSE",
+  "dependencies": {},
+  "keywords": [
+    "domain",
+    "driven",
+    "design",
+    "strategy"
+  ],
+  "author": {
+    "name": "Yip Ka Ming",
+    "email": "adrianyip1222@gmail.com",
+    "url": "https://github.com/adrianyip-1222/"
+  }
+}
